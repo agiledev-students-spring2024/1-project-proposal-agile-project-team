@@ -1,4 +1,4 @@
-### Money Saver!
+# Money Saver!
 Navid Chowdhury
 ### What and why?
 I would like to build a mobile wep application that can help college students to budget their spending. Many students are living on their own for the first time and may not know how to properly manage finances or save money for a rainy day.
